@@ -1,7 +1,6 @@
-<img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> Sierra Gtk Theme
-======
 
-Sierra is a Mac OSX like theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Pantheon, XFCE, Mate, etc.
+
+O2system Themes is a Mac OSX like theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Pantheon, XFCE, Mate, etc.
 
 This theme is based on Arc gtk theme of horst3180. Thanks horst3180 sincerely for his great job! 
 horst3180 - Arc gtk theme: https://github.com/horst3180/Arc-theme
@@ -30,30 +29,6 @@ Other:
 Search for the engines in your distributions repository or install the engines from source.
 
 ## Installation
-
-### Flathub
-
-Light Theme
-`flatpak install flathub org.gtk.Gtk3theme.High-Sierra`
-
-Dark Theme
-`flatpak install flathub org.gtk.Gtk3theme.High-Sierra-Dark`
-
-### Distributions
-
-openSUSE [package](https://build.opensuse.org/package/show/home:jubalh/sierra-gtk-theme):
-```
-sudo zypper ar obs://home:jubalh homejubalh
-sudo zypper ref
-sudo zypper in sierra-gtk-theme
-```
-Ubuntu [PPA](https://launchpad.net/~dyatlov-igor/+archive/ubuntu/sierra-theme) (maintained by [@igor-dyatlov](https://github.com/igor-dyatlov)):
-```
-sudo add-apt-repository ppa:dyatlov-igor/sierra-theme
-sudo apt update
-sudo apt install sierra-gtk-theme       # point releases
-sudo apt install sierra-gtk-theme-git   # git master branch
-```
 
 ### From source
 
