@@ -895,7 +895,8 @@ $slider_color: if($variant == 'light', $accent_color, white);
 /* TOP BAR */
 
 #panel {
-  background-color: $panel_bg_color;
+  // background-color: $panel_bg_color;
+  background-color: transparent;
   /* transition from solid to transparent */
   transition-duration: 250ms;
   font-weight: bold;
@@ -906,11 +907,15 @@ $slider_color: if($variant == 'light', $accent_color, white);
   &.unlock-screen,
   &.login-screen,
   &.lock-screen {
-    background-color: if($panel == 'light', rgba($panel_bg_color, 0.35), transparent);
+    background-color: transparent;
+    // background-color: if($panel == 'light', rgba($panel_bg_color, 0.35), transparent);
   }
 
   #panelLeft, #panelCenter { // spacing between activities<>app menu and such
     spacing: 0;
+  }
+  #panelright {
+    background-color: transparent;
   }
 
   .panel-corner {
@@ -1043,8 +1048,8 @@ $slider_color: if($variant == 'light', $accent_color, white);
   > * {
     background-image: url("assets/activities.svg");
     background-position: center top;
-    width: 24px;
-    height: 24px;
+    width: 4px;
+    height: 4px;
     background-color: transparent !important;
     background-gradient-direction: none !important;
     border: none;
