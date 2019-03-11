@@ -23,7 +23,7 @@
 }
 
 stage {
-  font-family: "M+ 1c", Roboto, Cantarell, Sans-Serif;
+  font-family: "M+ 1c", Roboto, Mukta, Sans-Serif;
   font-size: 9.75pt;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.87);
@@ -1123,7 +1123,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   -natural-hpadding: 4px;
   -minimum-hpadding: 4px;
   font-weight: bold;
-  color: #242424;
+  color: #000000;
   text-shadow: none;
   transition-duration: 150ms;
 }

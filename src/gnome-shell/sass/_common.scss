@@ -941,7 +941,7 @@ $slider_color: if($variant == 'light', $accent_color, white);
     -natural-hpadding: 4px;
     -minimum-hpadding: 4px;
     font-weight: bold;
-    color: $panel_fg_color;
+    color:  $black; //$panel_fg_color;
     text-shadow: none;
     transition-duration: $longer_duration;
 

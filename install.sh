@@ -15,7 +15,7 @@ else
   DEST_DIR="$HOME/.themes"
 fi
 
-THEME_NAME=O2system
+THEME_NAME=Osmium
 FLAT_VARIANTS=('' '-compact')
 COLOR_VARIANTS=('-light' '-dark')
 OPACITY_VARIANTS=('' '-solid')
