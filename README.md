@@ -1,6 +1,6 @@
 
 
-O2system Themes is a Mac OSX like theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Pantheon, XFCE, Mate, etc.
+Osmium Themes is a Mac OSX like theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Pantheon, XFCE, Mate, etc.
 
 This theme is based on Arc gtk theme of horst3180. Thanks horst3180 sincerely for his great job! 
 horst3180 - Arc gtk theme: https://github.com/horst3180/Arc-theme
@@ -43,7 +43,7 @@ Usage:  `./Install`  **[OPTIONS...]**
 |  OPTIONS:           | |
 |:--------------------|:-------------|
 |-d,  --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n,  --name           | Specify theme name (Default: Sierra)|
+|-n,  --name           | Specify theme name (Default: Osmium)|
 |-c,  --color          | Specify theme color variant(s) **[light/dark]** (Default: All variants)|
 |-o,  --opacity        | Specify theme opacity variant(s) **[standard/solid]** (Default: All variants)|
 |-f,  --flat           | Specify theme flat variant(s) **[standard/compact]** (Default: All variants)|
@@ -52,13 +52,4 @@ Usage:  `./Install`  **[OPTIONS...]**
 |-g,  --gdm            | Install GDM theme|
 |-h,  --help           | Show this help|
 
-## Screenshots
 
-### GNOME Shell
-
-#### Sierra
-![01](https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/screenshot1.jpeg?raw=true)
-![02](https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/screenshot2.jpeg?raw=true)
-![03](https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/screenshot3.jpeg?raw=true)
-![04](https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/screenshot4.jpeg?raw=true)
-![05](https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/screenshot5.jpeg?raw=true)
